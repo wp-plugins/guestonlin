@@ -1,6 +1,6 @@
 === GuestOnline Restaurant Reservation Widget ===
 Contributors: Tableonline
-Tags: restaurants, réservations en ligne, online booking
+Tags:  guestonline, tableonline, restaurant form,réservation en ligne, réservation restaurant, booking restaurant, online booking restaurant, réservation en ligne restaurant, guestonline shortcode, restaurant, réservation, bouton réservation, plugin, addon, widget, professional, chef, shortcodes
 Requires at least: 3.0.1
 Tested up to: 3.6
 Stable tag: 4.5
@@ -15,14 +15,12 @@ Add a free real-time reservation calendar on your website in seconds. GuestOnlin
 Don’t know CSS? No problem, There is no code required. Just follow the video or documentation to get you quickly up and running. Any suggestion or just want to give a feedback about the plugin ? Don’t hesitate to write to us. Our technology is permanently being developed and implemented in order to offer you a better experience day after day. If you like our work and our approach of the free reservation engine for restaurants, please rate a “ 5 stars”. It will be well appreciated !
 
 Features:
-  Powerful and User Friendly Booking Engine
-  Unlimited Reservations & Totally Free
-  Access to Back Office to  easily manage fine settings and restaurant’s availability 
-  Mobile Apps (iOS and Android) to Manage Online Bookings in Seconds
-  Multi Languages Supported
-  CSS Colors Customisable
-
-Keywords: guestonline, tableonline, restaurant form,réservation en ligne, réservation restaurant, booking restaurant, online booking restaurant, réservation en ligne restaurant, guestonline shortcode, restaurant, réservation, bouton réservation, plugin, addon, widget, professional, chef, shortcodes
+  - Powerful and User Friendly Booking Engine
+  - Unlimited Reservations & Totally Free
+  - Access to Back Office to  easily manage fine settings and restaurant’s availability 
+  - Mobile Apps (iOS and Android) to Manage Online Bookings in Seconds
+  - Multi Languages Supported
+  - CSS Colors Customisable
 
 == Installation ==
 Upload the Instabook plugin to your blog, Activate it, then enter your Referal Key.
