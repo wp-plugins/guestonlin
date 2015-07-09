@@ -23,9 +23,10 @@ Don’t know CSS? No problem, There is no code required. Just follow the video o
   * CSS Colors Customisable
 
 == Installation ==
-Upload the Instabook plugin to your blog, Activate it, then enter your Referal Key.
 
-You can enter your referal key by either using to link which is beside the desactivate link or by using the Instabook submenu which is found in the Plugin menu.  Both will lead you to the administration page.
+Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page. `[youtube http://youtu.be/HeA_ktJVFFI]`
+
+Once activated you can enter your referal key by either using to link which is beside the desactivate link or by using the Instabook submenu which is found in the Plugin menu.  Both will lead you to the administration page.
 
 == Frequently Asked Questions ==
 = Why should I use this plugin? =
