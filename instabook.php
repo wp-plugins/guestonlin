@@ -1,11 +1,11 @@
 <?php
 /*
-	Plugin Name:  Instabook
-	Plugin URI: 
-	Description: Instabook bookings and contact subscription modules
+	Plugin Name:  Guestonline
+	Plugin URI: www.guestonline.fr
+	Description: GuestOnline Widget allows you to add a powerful, totally free and real-time online booking engine for restaurants on your website very easily.
 	Version: 2.0
-	Author: MOREL Marie
-	Author URI: 
+	Author: Tableonline
+	Author URI: www.guestonline.fr
 	Text Domain: instabook
 	License: GPLv2 or later 
 */
